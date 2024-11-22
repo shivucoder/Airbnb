@@ -7,16 +7,6 @@ Welcome to our project, an innovative solution revolutionizing the way people tr
 ## Project Type
 
 Frontend
-
-## Deplolyed App
-
-Frontend: https://air-bnb-black.vercel.app
-Backend: https://backend-airbnb-stqx.onrender.com
-
-## Video Walkthrough of the project
-
-Project-Presentation Link:https://youtu.be/BllQ-pgqktg
-
 ## Features
 
 - User Authentication: Secure user registration and login.
@@ -102,10 +92,3 @@ List and provide a brief overview of the technologies used in the project.
 - json-server
 - Other libraries/modules
 
-## Contributors
-
-- Deepak Underiya--fw27_088
-- Sumit Kumar Jha-- fw29_093
-- Yawer Atique -- fw29_091
-- Supriya Hatele -- fw28_263
-- Renuka Jagarwal --fw29_183
